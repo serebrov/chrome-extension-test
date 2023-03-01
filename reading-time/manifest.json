@@ -13,9 +13,7 @@
     {
       "js": ["scripts/content_helpers.js", "scripts/content.js"],
       "matches": [
-        "https://developer.chrome.com/docs/extensions/*",
-        "https://developer.chrome.com/docs/webstore/*",
-        "https://developer.chrome.com/docs/*/*"
+        "https://developer.chrome.com/docs/*"
       ]
     },
     {
